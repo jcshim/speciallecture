@@ -54,8 +54,6 @@
 - DRam 메모리 반도체
 - ![image](https://github.com/user-attachments/assets/1d2f37b2-7023-4b9f-9503-308e53b1f905)
 - OLED
-- ![image](https://github.com/user-attachments/assets/f059f92d-07cc-4dc0-a36d-b6c81d5953d2)
-
 - HBM 메모리
 
 ---
