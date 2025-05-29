@@ -69,6 +69,7 @@
   - 경제력 세계 8위  
   - 국방력 세계 6위  
 > 로 발전하여 원조받던 나라에서 원조하는 나라가 된 이유 6가지
+![image](https://github.com/user-attachments/assets/cc87216d-c34f-47fb-88c2-41558fa9ee69)
 
 - 참고 링크:
   - [대한민국 소개: ilovekorea.md](https://github.com/jcshim/speciallecture/blob/main/ilovekorea.md)
@@ -85,7 +86,7 @@
 
 ## ❤️ 어떤 마음으로 살면 좋을까?
 
-> 인공지능 ChatGPT 질문:  
+> **인공지능 ChatGPT** 질문:  
 > 노인으로서 어떤 마음으로 살면 마음이 평강해지고 행복해질까?  
 > → 5가지 제목
 
