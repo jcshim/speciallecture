@@ -28,6 +28,8 @@
 ## 💡 한글
 
 - 한글의 안동에서 발견  
+![image](https://github.com/user-attachments/assets/b103e8e2-9232-460e-859d-c17c9a72bc2d)
+
   [korean.md](https://github.com/jcshim/speciallecture/blob/main/korean.md)
 - 거북선 모형이 안동에서 발견
  
@@ -60,7 +62,11 @@
 
 ## 🇰🇷 자랑스런 대한민국
 
-> ChatGPT 질문:  
+### [로봇 휴보 우승](https://youtu.be/v6-heLIg85o?si=GCzLObqREKVldik1)
+### [4족로봇 우승](https://youtu.be/pG1LGyNKkeA?si=Zljyc9jicPFvd-a1)
+### [Boston Dynamics](https://youtu.be/I44_zbEwz_w?si=uzInPg9FXaJHsCAt&t=25) 
+> ChatGPT 질문:
+> 
 > 대한민국이  
   ○ 자유 민주주의로 이승만 대통령이 건국하고,  
   ○ 새마을운동 등을 거치면서  
@@ -68,7 +74,6 @@
   - 국방력 세계 6위
 ![image](https://github.com/user-attachments/assets/672e2a06-513e-4c04-81e0-4786a466e4d6)
 ![image](https://github.com/user-attachments/assets/533691af-bcb2-4b9a-b7c8-1f5011c8461a)
-
  
 > 로 발전하여 원조받던 나라에서 원조하는 나라가 된 이유 6가지
 ![image](https://github.com/user-attachments/assets/cc87216d-c34f-47fb-88c2-41558fa9ee69)
