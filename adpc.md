@@ -67,7 +67,10 @@
   ○ 자유 민주주의로 이승만 대통령이 건국하고,  
   ○ 새마을운동 등을 거치면서  
   - 경제력 세계 8위  
-  - 국방력 세계 6위  
+  - 국방력 세계 6위
+![image](https://github.com/user-attachments/assets/672e2a06-513e-4c04-81e0-4786a466e4d6)
+
+ 
 > 로 발전하여 원조받던 나라에서 원조하는 나라가 된 이유 6가지
 ![image](https://github.com/user-attachments/assets/cc87216d-c34f-47fb-88c2-41558fa9ee69)
 
