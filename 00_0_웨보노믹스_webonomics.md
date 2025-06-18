@@ -1,10 +1,12 @@
 # AI 특강
-
-- 한국비교: 과거 vs 현재, 북한 vs 남한
+- 한국: 과거 vs 현재, 북한 vs 남한
+- 안동:
 - 뇌: 프로그래머로서 기억력 높이기
 - 효률높이기: 스트레스> 코르티솔 호르몬 > 해마
 - No room for samll dream (?)
+
 ---
+
 ## ChatGPT
 - ChatGPT 결과물 > Mark Down .md 예 > github
 - LLM: 두뇌
@@ -12,7 +14,9 @@
 - MCP: 시스템을 건드리고
 - A2A: 팀워크로 일하기
 - [LAMA](00_1_LLM_RAG_MCP_A2A.md)
+
 ---
+
 ## 광할환 우주
 
 ## HBM SK-SAMSUNG
