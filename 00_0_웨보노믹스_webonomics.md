@@ -13,8 +13,10 @@
 
 ---
 
-## ChatGPT
+## LLM (ChatGPT, Gemini, ...)
 - ChatGPT 결과물 > Mark Down .md 예 > github
+- https://github.com/jcshim/cpp/tree/main/metaprogramming
+### LLM의 약진
 - LLM: 두뇌
 - RAG: 정보 찾고 (Retrieval Augmentted Generation), Hallucination 줄이고
 - MCP: 시스템을 건드리고
@@ -22,14 +24,12 @@
 - [LAMA](00_1_LLM_RAG_MCP_A2A.md)
 
 ---
-
 ## 광할환 우주
 
 ## HBM SK-SAMSUNG
 ![image](https://github.com/user-attachments/assets/16b981c4-34d5-4d17-8fa0-bdde7052778e)
   
 ## 🔥 강의 핵심 컨셉
-
 **"AI는 도구가 아니라 방향이다. 우리가 바뀌지 않으면 도태된다."**
 
 ---
@@ -90,7 +90,7 @@
 ## 5. 임직원이 지금 당장 해야 할 것들 (실행 가이드)
 
 * ① 내 업무에서 반복되는 일 리스트 만들기 → AI 자동화 가능성 검토
-* ② 최소 1개 AI 도구 숙련 → 예: Notion AI, Copilot, GPT 등
+* ② 최소 1개 AI 도구 숙련 → 예: GPT, Notion AI, Copilot, 등
 * ③ 나만의 "AI 업무 협업 프롬프트북" 만들기
 * ④ 사내 지식 공유: 작은 실험이라도 동료와 나누기
 
