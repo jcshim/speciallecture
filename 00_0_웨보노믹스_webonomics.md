@@ -4,20 +4,22 @@
 
 ## 메모
 - 우주의 크기, 인체의 신비, 나의 현재 > 미래
-- programming language ranking?
+- programming language ranking? stackoverflow, mojo
+- 인공지능의 종류, AI, ML, DL
 - 인공지능의 도화선? 알파고, 알파제로, 알파폴더, GPT
+- 그래픽스: VR, AR, MR, Metaverse
 - 기억의 반대는 망각? 상상? 
 - 뇌: 프로그래머로서 기억력 높이기
 - 효률 높이기: 스트레스> 코르티솔 호르몬 > 해마
-- 한국: 과거 vs 현재, 북한 vs 남한
-- 안동: 국보
 - No room for samll dream (?)
+//- 한국: 과거 vs 현재, 북한 vs 남한
+//- 안동: 국보
 
 ---
 
 ## LLM (ChatGPT, Gemini, ...)
-- LLM market share?
-- ChatGPT 결과물 > Mark Down .md 예 > github
+- LLM market share? GPT 74.9% perplexity 6.2%
+- ChatGPT 결과물 > Mark Down .md 예 > github $75억:8조, LinkedIn($262억:30조), 액티비전 블리자드(마인크래프트): $670억:92조조
 - https://github.com/jcshim/cpp/tree/main/metaprogramming
 
 ### LLM의 약진
