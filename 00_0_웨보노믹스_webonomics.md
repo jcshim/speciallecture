@@ -7,6 +7,7 @@
 - programming language ranking? stackoverflow, mojo
 - 인공지능의 종류, AI, ML, DL
 - 인공지능의 도화선? 알파고, 알파제로, 알파폴더, GPT
+- 100조 AI: 소버린(주권)AI
 - 그래픽스: VR, AR, MR, Metaverse
 - 기억의 반대는 망각? 상상? 
 - 뇌: 프로그래머로서 기억력 높이기
