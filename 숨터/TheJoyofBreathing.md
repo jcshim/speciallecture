@@ -81,6 +81,11 @@
 5. 디지털 격차 해소와 기술 적응 지원  
 
 ---
+## 9 추천 AI 툴
+1. ChatGPT
+2. Askup(아숙업)
+3. wrtn(뤼튼)
+4. Google: Gemini, NotebookLM, Google AI Studio. Google Flow
 
 **결론:**  
 > 불과 문자에서 시작된 인류의 창의성은 이제 인공지능으로 이어졌습니다.  
